@@ -1,0 +1,13 @@
+{
+    "motors":
+    [
+      {
+        "name": "Head",
+        "goal_position": 1
+      },
+      {
+        "name": "Neck",
+        "goal_position": 1
+      }
+    ]
+}
